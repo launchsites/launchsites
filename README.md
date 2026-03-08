@@ -18,15 +18,21 @@ https://github.com/launchsites/leadminer
 ### SwanWeb
 Website design and development for local businesses.
 
+https://swanweb.co.uk
+
 ---
 
 ### MyTrady
 Website platform built specifically for tradesmen.
 
+https://mytrady.co.uk
+
 ---
 
 ### ReviewChicken
 NFC review stands that help businesses collect Google reviews with a tap.
+
+https://reviewchicken.co.uk
 
 ---
 
