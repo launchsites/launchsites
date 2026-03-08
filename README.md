@@ -4,7 +4,7 @@ Founder building tools and websites for agencies and local businesses.
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=launchsites&show_icons=true)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=launchsites&show_icons=true)](https://github-readme-stats.vercel.app/api?username=launchsites&show_icons=true&theme=default)
 
 ---
 
